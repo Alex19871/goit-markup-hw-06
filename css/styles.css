@@ -530,10 +530,14 @@ margin-bottom: 0px;
     text-transform: uppercase;
     margin-bottom: 20px;
     }
-    .footer-content {
+    .footer>.container {
         display: flex;
         align-items: baseline;
     }
+    /* .footer-content {
+        display: flex;
+        align-items: baseline;
+    } */
     .follow {
         display: block;
         margin-left: 70px;
